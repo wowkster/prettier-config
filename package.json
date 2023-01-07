@@ -4,5 +4,6 @@
     "description": "My config for Prettier",
     "main": "prettier.config.js",
     "author": "Wowkster",
-    "license": "ISC"
+    "license": "ISC",
+    "readme": "README.md"
 }
